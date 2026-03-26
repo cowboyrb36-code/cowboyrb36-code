@@ -6,11 +6,20 @@ Turning raw data into executive-ready insights using SQL, BigQuery, Tableau, and
 
 ## About Me
 
-Data analyst with a background in business strategy, health insurance, and operational systems. I build end-to-end analytics pipelines — from raw data cleaning through feature engineering to interactive Tableau dashboards — using industry-standard tools and recruiter-ready documentation.
+Data analyst with 15 years of health insurance industry experience, a degree in Social Science from UC Berkeley, and an MBA in Entrepreneurship from Jones International University. I build end-to-end analytics pipelines — from raw data cleaning through feature engineering to interactive Tableau dashboards — using industry-standard tools and recruiter-ready documentation.
 
-**Certifications:** Google Data Analytics · Generative AI (Vanderbilt) · Prompt Engineering for Law
+**Core Stack:** SQL (BigQuery) · Tableau · Excel · R · GitHub
 
-**Core Stack:** SQL (BigQuery) · Tableau · Excel · GitHub
+### Certifications
+
+| Certificate | Issuer | Completed |
+|-------------|--------|-----------|
+| Google Data Analytics Professional Certificate | Google | Aug 2025 |
+| Generative AI SQL Database Specialist with ChatGPT | Vanderbilt University | Aug 2025 |
+| ChatGPT + Excel: AI-Enhanced Data Analysis & Insight | Vanderbilt University | Aug 2025 |
+| Generative AI Data Analyst | Vanderbilt University | Aug 2025 |
+| Prompt Engineering for Law | Vanderbilt University | Aug 2025 |
+| Prompt Engineering | Vanderbilt University | Sep 2025 |
 
 ---
 
